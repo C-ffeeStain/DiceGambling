@@ -1,4 +1,4 @@
-import random,keyboard,os,toml,requests
+import random,os,toml
 from time import sleep
 data = {}
 with open("data.toml") as f:
